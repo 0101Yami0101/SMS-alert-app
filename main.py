@@ -4,7 +4,7 @@ from twilio.rest import Client
 
 OWN_Endpoint = "http://api.openweathermap.org/data/2.5/forecast"  ##5 days data per 3 hour 
 
-#twilio details
+#twilio details/demo account
 #can save the below details as environment variables for security
 account_sid = "ACb395f4340abc099e6fbffcb1ff018d08"
 auth_token = "ba9adbab774994c0cab1349c41eeeae5"
